@@ -1,0 +1,66 @@
+[
+  {
+    "question": "hello",
+    "answer": "Hey! I'm TinyLocalAI, a small offline assistant."
+  },
+  {
+    "question": "hi",
+    "answer": "Hi! What would you like to know?"
+  },
+  {
+    "question": "what are you",
+    "answer": "I'm TinyLocalAI, a lightweight offline question-and-answer program."
+  },
+  {
+    "question": "who made you",
+    "answer": "This demo project was assembled from Python code. You can teach it new answers using /teach."
+  },
+  {
+    "question": "what is python",
+    "answer": "Python is a general-purpose programming language known for readable syntax and a large ecosystem."
+  },
+  {
+    "question": "what is html",
+    "answer": "HTML is the markup language used to structure content on web pages."
+  },
+  {
+    "question": "what is css",
+    "answer": "CSS controls the appearance and layout of HTML pages."
+  },
+  {
+    "question": "what is javascript",
+    "answer": "JavaScript is a programming language commonly used to make web pages interactive."
+  },
+  {
+    "question": "what is a variable",
+    "answer": "A variable is a named place in a program where a value can be stored."
+  },
+  {
+    "question": "what is a loop",
+    "answer": "A loop repeats a block of code while a condition holds or for each item in a sequence."
+  },
+  {
+    "question": "what is an algorithm",
+    "answer": "An algorithm is a clear sequence of steps for solving a problem."
+  },
+  {
+    "question": "what is artificial intelligence",
+    "answer": "Artificial intelligence is a field of computing focused on systems that perform tasks associated with abilities such as learning, pattern recognition, and language processing."
+  },
+  {
+    "question": "what is a neural network",
+    "answer": "A neural network is a computing model made of connected numerical units that learn patterns from examples."
+  },
+  {
+    "question": "what is machine learning",
+    "answer": "Machine learning is a way to build systems that learn patterns from data rather than relying only on hand-written rules."
+  },
+  {
+    "question": "what is ram",
+    "answer": "RAM is short-term working memory used by a device while programs are running."
+  },
+  {
+    "question": "how do i teach you",
+    "answer": "Type /teach, then enter a question and its answer. I'll save that pair locally."
+  }
+]
